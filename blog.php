@@ -42,7 +42,7 @@ $posts = file_exists('posts.txt') ? file('posts.txt', FILE_IGNORE_NEW_LINES | FI
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Blog Simples</title>
-    <link rel="icon" type="image/x-icon" href="assets/blog.ico" />
+    <link rel="icon" type="image/x-icon" href="/assets/enviar.ico" />
     <style>
         body {
             font-family: Arial, sans-serif;
